@@ -5,6 +5,6 @@ The application uses an encoder-decoder neural network to translate English sent
 
 
 Future Improvment:
-Training on a larger datadet
-Support French to English translation
-Improving the User interface
+-Training on a larger datadet
+-Support French to English translation
+-Improving the User interface
